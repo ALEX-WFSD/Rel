@@ -3,7 +3,7 @@
     "short_name": "Relationer", 
     "theme_color":"#333",
     "background_color":"#333",
-    "display":"standlone",
+    "display":"standalone",
     "orientation":"portrait",
     "scope":"/",
     "start_url": "/",
